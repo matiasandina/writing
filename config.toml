@@ -4,6 +4,8 @@ author = "Matias Andina"
 canonifyurls = true
 languagecode = "en"
 theme = "black-and-light"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "UNPUBLISHED"]
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
@@ -15,10 +17,12 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "About"
     url  = "https://matiasandina.netlify.com/about/"
-[[menu.main]]
-    name = "Projects"
-    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+    weight = 1
 [[menu.main]]
     name = "Contribute"
-    url  = "matiasandina.github.io/writing/contribute"
-
+    url  = "/contribute"
+    weight = 2
+[[menu.main]]
+	name       = "Contact"
+	url        = "/contact"
+	weight     = 3
