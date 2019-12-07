@@ -1,0 +1,24 @@
+baseurl = "https://writing.matiasandina.netlify.com/"
+title = "Writing"
+author = "Matias Andina"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Matias Andina"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "https://matiasandina.netlify.com/about/"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/davidhampgonsalves/hugo-black-and-light-theme"
+[[menu.main]]
+    name = "Contribute"
+    url  = "matiasandina.github.io/writing/contribute"
+
