@@ -1,4 +1,4 @@
-baseurl = "https://writing.matiasandina.netlify.com/"
+baseurl = "https://writing-matiasandina.netlify.com/"
 title = "Writing"
 author = "Matias Andina"
 canonifyurls = true
