@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
+    
+
+    
+      <link href='https://fonts.googleapis.com/css?family=Open+Sans:400|Old+Standard+TT:400' rel='stylesheet' type='text/css'>
+    
+
+    <link rel="icon" type="image/png" href="/favicon_16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon_32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon_128x128.png" sizes="128x128">
+
+    <title>
+      
+      
+         On Being a Brain 
+      
+    </title>
+    <link rel="canonical" href="/post/on-being-a-brain/">
+
+    <style>
+  * {
+    border:0;
+    font:inherit;
+    font-size:100%;
+    vertical-align:baseline;
+    margin:0;
+    padding:0;
+    color: black;
+    text-decoration-skip: ink;
+  }
+
+  body {
+    font-family:'Open Sans', 'Myriad Pro', Myriad, sans-serif;
+    font-size:17px;
+    line-height:160%;
+    color:#1d1313;
+    max-width:700px;
+    margin:auto;
+  }
+
+  p {
+    margin: 20px 0;
+  }
+
+  a img {
+    border:none;
+  }
+
+  img {
+    margin: 10px auto 10px auto;
+    max-width: 100%;
+    display: block;
+  }
+
+  .left-justify {
+    float: left;
+  }
+
+  .right-justify {
+    float:right;
+  }
+
+  pre, code {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    background-color: #f7f7f7;
+  }
+
+  code {
+    font-size: 12px;
+    padding: 4px;
+  }
+
+  pre {
+    margin-top: 0;
+    margin-bottom: 16px;
+    word-wrap: normal;
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+  }
+
+  pre>code {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    word-break: normal;
+    white-space: pre;
+    background: transparent;
+    border: 0;
+  }
+
+  pre code {
+    display: inline;
+    max-width: auto;
+    padding: 0;
+    margin: 0;
+    overflow: visible;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+  }
+
+  pre code::before,
+  pre code::after {
+    content: normal;
+  }
+
+  em,q,em,dfn {
+    font-style:italic;
+  }
+
+  .sans,html .gist .gist-file .gist-meta {
+    font-family:"Open Sans","Myriad Pro",Myriad,sans-serif;
+  }
+
+  .mono,pre,code,tt,p code,li code {
+    font-family:Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
+  }
+
+  .heading,.serif,h1,h2,h3 {
+    font-family:"Old Standard TT",serif;
+  }
+
+  strong {
+    font-weight:600;
+  }
+
+  q:before {
+    content:"\201C";
+  }
+
+  q:after {
+    content:"\201D";
+  }
+
+  del,s {
+    text-decoration:line-through;
+  }
+
+  blockquote {
+    font-family:"Old Standard TT",serif;
+    text-align:center;
+    padding:50px;
+  }
+
+  blockquote p {
+    display:inline-block;
+    font-style:italic;
+  }
+
+  blockquote:before,blockquote:after {
+    font-family:"Old Standard TT",serif;
+    content:'\201C';
+    font-size:35px;
+    color:#403c3b;
+  }
+
+  blockquote:after {
+    content:'\201D';
+  }
+
+  hr {
+    width:40%;
+    height: 1px;
+    background:#403c3b;
+    margin: 25px auto;
+  }
+
+  h1 {
+    font-size:35px;
+  }
+
+  h2 {
+    font-size:28px;
+  }
+
+  h3 {
+    font-size:22px;
+    margin-top:18px;
+  }
+
+  h1 a,h2 a,h3 a {
+    text-decoration:none;
+  }
+
+  h1,h2 {
+    margin-top:28px;
+  }
+
+  #sub-header, time {
+    color:#403c3b;
+    font-size:13px;
+  }
+
+  #sub-header {
+    margin: 0 4px;
+  }
+
+  #nav h1 a {
+    font-size:35px;
+    color:#1d1313;
+    line-height:120%;
+  }
+
+  .posts_listing a,#nav a {
+    text-decoration: none;
+  }
+
+  li {
+    margin-left: 20px;
+  }
+
+  ul li {
+    margin-left: 5px;
+  }
+
+  ul li {
+    list-style-type: none;
+  }
+  ul li:before {
+    content:"\00BB \0020";
+  }
+
+  #nav ul li:before, .posts_listing li:before {
+    content:'';
+    margin-right:0;
+  }
+
+  #content {
+    text-align:left;
+    width:100%;
+    font-size:15px;
+    padding:60px 0 80px;
+  }
+
+  #content h1,#content h2 {
+    margin-bottom:5px;
+  }
+
+  #content h2 {
+    font-size:25px;
+  }
+
+  #content .entry-content {
+    margin-top:15px;
+  }
+
+  #content time {
+    margin-left:3px;
+  }
+
+  #content h1 {
+    font-size:30px;
+  }
+
+  .highlight {
+    margin: 10px 0;
+  }
+
+  .posts_listing {
+    margin:0 0 50px;
+  }
+
+  .posts_listing li {
+    margin:0 0 25px 15px;
+  }
+
+  .posts_listing li a:hover,#nav a:hover {
+    text-decoration: underline;
+  }
+
+  #nav {
+    text-align:center;
+    position:static;
+    margin-top:60px;
+  }
+
+  #nav ul {
+    display: table;
+    margin: 8px auto 0 auto;
+  }
+
+  #nav li {
+    list-style-type:none;
+    display:table-cell;
+    font-size:15px;
+    padding: 0 20px;
+  }
+
+  #links {
+    margin: 50px 0 0 0;
+  }
+
+  #links :nth-child(2) {
+    float:right;
+  }
+
+  #not-found {
+    text-align: center;
+  }
+
+  #not-found a {
+    font-family:"Old Standard TT",serif;
+    font-size: 200px;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 225px;
+  }
+
+  @media (max-width: 750px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:28px;
+    }
+
+    #nav li {
+      font-size:13px;
+      padding: 0 15px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:50px;
+      font-size:14px;
+    }
+
+    #content h1 {
+      font-size:25px;
+    }
+
+    #content h2 {
+      font-size:22px;
+    }
+
+    .posts_listing li div {
+      font-size:12px;
+    }
+  }
+
+  @media (max-width: 400px) {
+    body {
+      padding-left:20px;
+      padding-right:20px;
+    }
+
+    #nav h1 a {
+      font-size:22px;
+    }
+
+    #nav li {
+      font-size:12px;
+      padding: 0 10px;
+    }
+
+    #content {
+      margin-top:0;
+      padding-top:20px;
+      font-size:12px;
+    }
+
+    #content h1 {
+      font-size:20px;
+    }
+
+    #content h2 {
+      font-size:18px;
+    }
+
+    .posts_listing li div{
+      font-size:12px;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    *, #nav h1 a {
+      color: #FDFDFD;
+    }
+
+    body {
+      background: #121212;
+    }
+
+    pre, code {
+      background-color: #262626;
+    }
+
+    #sub-header, time {
+      color: #BABABA;
+    }
+
+    hr {
+      background: #EBEBEB;
+    }
+  }
+</style>
+
+
+    
+  </head>
+
+  <body>
+    <section id=nav>
+      <h1><a href="/">Matias Andina</a></h1>
+      <ul>
+        
+          <li><a href="https://matiasandina.netlify.com/about/">About</a></li>
+        
+          <li><a href="matiasandina.github.io/writing/contribute">Contribute</a></li>
+        
+          <li><a href="https://github.com/davidhampgonsalves/hugo-black-and-light-theme">Projects</a></li>
+        
+      </ul>
+    </section>
+
+
+<section id=content>
+  <h1> On Being a Brain </h1>
+
+  
+    <div id=sub-header>
+      April 2019 · 12 minute read
+    </div>
+  
+
+  <div class="entry-content">
+    <p>There&rsquo;s no light inside, there&rsquo;s no sound either. There’s no touching around that could guide you. No smell crawling its way towards you. The surroundings are tasteless. You are trapped in a coffin made of bone, a skull that imprisons you in an eternal bath.</p>
+
+<p>In this bath, it&rsquo;s only you and the <em>signals</em>. So your best option is to sit comfortably and contemplate the myriad of miniature sparks that travel from one side to the other, and back. They move like little waves of information, buzzing around from place to place. Space is big inside and, to get from here to there, it takes <em>time</em>. Time seems to be important, although you don&rsquo;t know why. But you can follow its progression with great detail. The little waves and the swimming things in the soup are incessant. You contemplate them doing their trick once, twice, ten times. Repeat. Over, and over, and over again.</p>
+
+<p>As a Brain, you have no legs or arms or body. But I trust you will understand that words like <em>sit</em> or <em>float</em> serve the purpose of communication. Thus, I shall say that I am not ashamed of incorrect usage of terms, we did not invent language to make literal use of it in the first place. Language was invented to represent the signals from the inside out. Each Brain will agree to assign value and name to the signals each word carries. And, more often than not, that assignment will be good enough. So&hellip;What is it that you do for a living?</p>
+
+<p>Well, you sit and contemplate the signals. For they repeat and they change, they oscillate, they appear in different places as time progresses. This set of signals often occurs after this other one. This ensemble shines if, and only if, that group of places is not quite communicative with each other. The signs and groups of signs grow into stable patterns that you recognize more often. Patterns make sense. You appear to be quite suited for pattern recognition and labeling. You remember that you have experienced this sequence before. You might as well begin to stitch greater portions of time together. You have time, you devote yourself to doing that because it seems to be what you do for a living.</p>
+
+<p>You find out that there is some order of structures, preferential directions and moments in which signals travel. Yet, things happen in stratified and convoluted ways, conversations occur at many levels, seemingly all together. Trains of conversations cluster together, as if they were a continuous array of signs, going in a particular direction, a greater direction. Yes, there is a hierarchy of information emerging from the little sparks. Just continue to do what you have been doing so far, creating new categories. Go on, keep on labeling things.</p>
+
+<p>You have big boxes, categories that encompass systems that work in one way or the other. At least most of the time, they do. Organize your office, put your systems into work for you and stream emergent thoughts. Can you feel them pumping? The systems are working like a charm. You are now able to flow across multiple trains, jump from one to the other into a progression of more complex structures.</p>
+
+<p>Congratulations, somewhere along this path you became aware. But the list of your problems has just started to grow. Now, you are aware of being aware.
+Can you feel this change? Are you feeling what you are feeling? Does it burn? Stop. Stop being emotional about emotions, they are there in their own right, you would do far worse without them. You have a focus problem, you are stuck. You are stuck in choice, grounded in indecision. You are afraid. Worse, you are petrified, unable to deal with the road bifurcations ahead. Stop trying to bend your timeline, trying to make it cyclical to prevent its end. Whenever the end of consciousness comes, there’s nothing to be afraid of, for there’s nothing at all.</p>
+
+<p>Now that you have understood awareness, you are too tempted to reason by contradiction. Negate awareness and see where it leads you. There was a place without awareness, you were there before, but it all sounds absurd now. Awareness, such a powerful tool. You can&rsquo;t believe you didn&rsquo;t have it before and, naturally, you worry about not having it anymore some day. But your fixation with lack of awareness is nothing but an exercise in perspiration. You have lied to yourself, undirected as you are, it&rsquo;s no wonder how you ended up chasing carrots, needing unnecesities. How do you plan to achieve your goals? Repeating repetitions? Looping mantras to yourself? You won&rsquo;t do that, you are almighty. You will invest your time unwisely. Go ahead, spend it relentlessly seeking, asking the future how it will remember the past, without knowing that you are using the wrong definition of present. You do not live in the present, it is too fast for you. You live in the interpretation of the fleeting moment that just went by, that looming past that shakes your nerves before you sense the clock tick. Fear not, for there&rsquo;s nothing at all.</p>
+
+<p>In fact, there&rsquo;s nothing more than this space of which you are fully aware now. There&rsquo;s nothing you make into being on the outside. You don&rsquo;t create form from matter, you simply can&rsquo;t. You are the result of an explosion and a minuscule part of an unstoppable chain of events. But you are not comfortable with determinism. It&rsquo;s a common misconception, you confuse awareness with choice. I will make it easier on you. Everything you think and do arises from previous causes, plus some randomness. You have not created yourself, it was fortuitous. Moreover, whatever you make out of your luck is more luck. I hear you, you think you can chip in and twist that wheel of Fortune, roll some loaded dice. Don&rsquo;t be so enthusiastic, true randomness doesn&rsquo;t allow for free will either. Flip a coin. What freedom can you find there?</p>
+
+<p>Confused? It&rsquo;s OK. Most brains are programmed to think they are the thinker of their thoughts, the center of the Universe, with planets and stars revolving around them. There&rsquo;s no thinker. Your thoughts are not you, your thinking is subject to the same chain of events and randomness. Don&rsquo;t resist, it&rsquo;s out of your control. Quiet that arrogant voice declaring you actually exist and make decisions under no influence. Out of all your decisions, there&rsquo;s no single one you&rsquo;ve made free from influence. You have no control. Whether you understand this or not, it&rsquo;s not under your control either. But, if you don&rsquo;t understand it, you will enjoy unlimited misery. Where is the freedom? There isn&rsquo;t. You didn&rsquo;t even ask for advice and, yet, here we are.</p>
+
+<p>Look at you now, clouded, denying logic. Jumping words because of their context or the smells their letters bring back from memory. Fool yourself, believe in the movie being projected into your mind&rsquo;s eye. Remembering is always a reconstruction, not reproduction. It just didn&rsquo;t happen, at least not in the way you remember it. Yes, get angry, scream your thoughts. Puke venom, produce sound. Sound is round, like a merry-go-round, a kid&rsquo;s face with their teeth shining like a mosaic of ivory and shadow; a chess board on a table; a square table with just one leg, a rounded wooden leg; solid; an elephant&rsquo;s leg turning the arid soil to crumbles; a hose on the loose sprinkling the immature flowers of this spring. Jump again, where to this time? Where are you going with all this wandering?</p>
+
+<p>You need to quiet the cacophony, set the boundaries, delineate the playground. To define is to put an end, to enclose in a wax prison, a definitive, all-encompassing, space, fixated on time. Nobody asked you to agree with the terms of the game, the coin is already in the air. What is it going to be?</p>
+
+<p>Melt the wax, lessen the rigour of the definitions, allow for change, for improvement upon observation. Ask yourself. What is an accurate description of reality? You won&rsquo;t ask, you can&rsquo;t answer. For that escapes your eyes, your physical capabilities of perception, and your electric circuit would overload. You simplify, you omit by using a treacherous pattern completion algorithm, filling the gaps with your alternative reality. That&rsquo;s the one and only existence you consider real, the one you fabricate to your convenience.</p>
+
+<p>I can hear you rambling&hellip;<em>If the premise is true and the reasoning is deductive&hellip;</em> If only the premise you fancy was true and your reasoning could be deductive. But they can&rsquo;t be and, somewhere inside you, you have enough information to know this already, find that connection, make it stand out. Stick your attention to the signals. You know why, because you know what they mean, you assigned meaning to them in the first place! More importantly, because they are you.</p>
+
+<p>What, did you think this was going to be easy? Reflexes are easy, but you don&rsquo;t need a brain for that, a spinal cord alone would take you for the full ride. Let me hit your knee at the correct place, see it jerk? It was not your decision, you had no urge to do so. Mere cause and effect. You were not even thinking about doing it and you would find it very difficult to resist the reflex.</p>
+
+<p>If we thought that being a mirror was a legitimate job, we would have stopped at the spinal cord. But we wanted more. There is something remarkably different about thoughts that distinguishes them from primitive reflexes. And you are a thinking brain, my friend.</p>
+
+<p>Did you notice that thought? Maybe that new one, the one that just passed through you? Yes, maybe that other one, the one you like to entertain pretty often. Pay attention to that, you think that&rsquo;s your core, that&rsquo;s you. Pay closer attention. How is it possible for a thought, however poignant and present, to be you? Your ego is still burning you from within. Stop. Focus.</p>
+
+<p>When you believe that you are your thoughts, you identify with them. You are a thinking brain but your thoughts are not you, just as much as the seeds of a tree are not part of it, they are already detached. Can you watch them fly away with the wind? Where do they go? They are gone. Focus on the task.</p>
+
+<p>Your job, if you happen to accept it, is of the utmost importance: assigning truth. And since you made it this far, I am sure you predict truth to be elusive. Everything you believe to be true is based on the perceptual reconstruction you do. But it doesn&rsquo;t have to be. It&rsquo;s time for synthesis.</p>
+
+<p>Imagine being a brain. There’s no light inside, but the trend of information that flows in you creates a magnificent representation of what seems to be the outside, the visually astounding world that surrounds you. There&rsquo;s no sound either but it&rsquo;s easy enough to tune in and enjoy the flowing rhythm dancing on the air. There’s no touching around to serve as a guide but there&rsquo;s enough Universe out there to fondle. If there&rsquo;s no smell getting at you, you&rsquo;re not making good use of that nose hanging from your face: Inhale. The surroundings are tasteless so go beyond, take a huge bite out of that crunchy crust, a mouthful of that mush, savour each second, indulge yourself. You are trapped in a coffin made of bone, it is there to protect you while you go around rocking the hell out of everything. Are you ready? You will have to move.</p>
+
+<p>As a Brain, you have no legs or arms or body. But you seem to be able to control legs and arms and a body. You can take that body places. You can tune in with Body in such detail that it can execute your commands flawlessly. For some reason, the connection between you, Brain, and that thing called Body allows you to incorporate and understand the meaning of the signals. Whatever happens to Body, you can sense it. In fact, this is explicitly part of your blueprint, you are made to move Body around and fill it with experiences. Yes, greater extension implies a significant increase in the information rushing towards you.</p>
+
+<p>Yes, time becomes less elastic and data flows at a considerable pace now. Data is everywhere, fragmentary and fleeting, the only way to continue functioning is to simplify. Out of the infinite possible explanations for what has just happened, what is the most likely pattern that you should follow? Guess now. The moment is gone.</p>
+
+<p>Don&rsquo;t absorb yourself by going into a downward spiral. You can still manage these processes. The systems that you put into place continue to make sense. You must have realized that you do not have to handle the tiny and noisy variations of the individual signals, nor devote full attention to them anymore. They work together as a whole. Everything is you and you are everything. But I know you are ruminating, can you trust Body?</p>
+
+<p>Let me give you a hint: it happens to be that the best explanation around the confusion with the body is that the substance that makes the body you seem to control is the same as the substance that makes you. So what? Brain and Body are made from the same ingredients and the one cannot continue existing without the other.</p>
+
+<p>You, Brain, Brain-Body, train of thoughts, gazillion of continuously traveling signals, are one that has become conscious of the fact that you exist and your existence arises from the convergence of matter, interacting in a particular way, over an extensive period of time. You are aware of being aware and the fact that it is incredibly unlikely that you should exist. And yet here you are. You have made this process alone, considerably assisted by the environment and your particular architecture, but notwithstanding in a unique and unrepeatable manner that identifies you more than anybody else. Congratulations, welcome to life.</p>
+
+<p>The coin is still flipping in the air, what is it gonna be? What&rsquo;s the story gonna look like when you write your report? What if you could <em>invent</em> the story? If you were to allow yourself thinking, why don&rsquo;t allow yourself wishful thinking?</p>
+
+<p>Some things appear straight forward, cause and effect. But allow me to let you in on a secret: there is no cause and effect. However forceful the arrow of time might be, the reasons behind it all are awaiting your attribution. Fear not, my friend, for attribution of causality is not alien to you. You are an innate story-teller, a natural narrator. Let there be.</p>
+
+  </div>
+
+  <div id=links>
+    
+    
+  </div>
+</section>
+
+  
+</body>
+</html>
+
+
+
