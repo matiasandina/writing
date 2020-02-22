@@ -2,6 +2,7 @@
 title: On Being a Brain
 author: Matias Andina
 date: 2019-04-19
+tags: ["fiction"]
 ---
 
 There's no light inside, there's no sound either. There’s no touching around that could guide you. No smell crawling its way towards you. The surroundings are tasteless. You are trapped in a coffin made of bone, a skull that imprisons you in an eternal bath. 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Writing</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Writing</description>
+    <title>non-fiction on Writing</title>
+    <link>/tags/non-fiction/</link>
+    <description>Recent content in non-fiction on Writing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/non-fiction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>/post/all-of-us/</guid>
       <description>They will give you cancer. If you ask, they will lie about it. They will lie about it for 50 years. After that, they will awake to a new consciousness, a fresh peaceful self. They will say they want to stop selling you nicotine packaged with cancer. From now on, they will only sell you nicotine in a different shape, one that is appealing to new generation of kids that were not going to be addicts in the first place.</description>
-    </item>
-    
-    <item>
-      <title>On Being a Brain</title>
-      <link>/post/on-being-a-brain/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/on-being-a-brain/</guid>
-      <description>There&amp;rsquo;s no light inside, there&amp;rsquo;s no sound either. There’s no touching around that could guide you. No smell crawling its way towards you. The surroundings are tasteless. You are trapped in a coffin made of bone, a skull that imprisons you in an eternal bath.
-In this bath, it&amp;rsquo;s only you and the signals. So your best option is to sit comfortably and contemplate the myriad of miniature sparks that travel from one side to the other, and back.</description>
     </item>
     
     <item>

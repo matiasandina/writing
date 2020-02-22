@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All of us</title>
+      <link>/post/all-of-us/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-of-us/</guid>
+      <description>They will give you cancer. If you ask, they will lie about it. They will lie about it for 50 years. After that, they will awake to a new consciousness, a fresh peaceful self. They will say they want to stop selling you nicotine packaged with cancer. From now on, they will only sell you nicotine in a different shape, one that is appealing to new generation of kids that were not going to be addicts in the first place.</description>
+    </item>
     
     <item>
       <title>On Being a Brain</title>
@@ -43,6 +52,15 @@ I write open-source software.
 I create generative art.
 All of these are available for free in different media. If you like what I do, and want me to keep creating, you can contribute using the links below. 
  Patreon  Become a Patron!       Paypal      </description>
+    </item>
+    
+    <item>
+      <title>All you did not choose</title>
+      <link>/post/all-you-did-not-choose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-you-did-not-choose/</guid>
+      <description>You did not choose your name, not the first one that was given to you anyway. You did not choose your country of birth. You did not choose your mother tongue. You did not choose your face. You didn&amp;rsquo;t choose your skin tone. You didn&amp;rsquo;t choose the educations others will receive. the way you speak, the your vocal cords. You can always choose to fake it. People will chose for themselves to trust what you say.</description>
     </item>
     
   </channel>
