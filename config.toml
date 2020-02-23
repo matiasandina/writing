@@ -26,3 +26,6 @@ pygmentscodefences  = true
 	name       = "Contact"
 	url        = "/contact"
 	weight     = 3
+
+[taxonomies]
+  tag      = "tags"
