@@ -31,6 +31,6 @@ They will create distorted bubbles, eco chambers. They will have the smartest mi
 
 You will scream and kick and throw punches. You will read and write about the clusterfuck of it all. How dare them, you will ask. You will go over it again, and again, and again. And it will all be worthless.
 
-You will believe everyone is in it for themselves. You will chant whatever broken record they implanted to you. You will cheer for their movies, hyperventilate for their releases, and clap after their speeches. You will tattoo their logo onto your skin and strike a pose about it. Maybe that picture will help you collect even more token carrots. But you will seldom grab a mirror. You will seldom look at your moral compass. You will seldom look at anything outside your phone. You will keep your eyes shut.
+You will believe everyone is in it for themselves. You will chant whatever broken record they implanted in you. You will cheer for their movies, hyperventilate for their releases, and clap after their speeches. You will tattoo their logo onto your skin and strike a pose about it. Maybe that picture will help you collect even more token carrots. But you will seldom grab a mirror. You will seldom look at your moral compass. You will seldom look at anything outside your phone. You will keep your eyes shut.
 
 Them is us. All of us.
