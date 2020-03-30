@@ -6,8 +6,14 @@
       <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div id=date>
-          <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
-        </div>
+                    <time>
+            <!-- remove Date on homepage if it doesn't have date -->
+            {{if .Date.IsZero }}
+            {{else}}
+            {{ .Date.Format (.Site.Params.dateform | default "January 2006") }}
+            {{end}}
+            </time>
+            </div>
       </li>
     {{ end }}
   </ul>
