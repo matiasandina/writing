@@ -6,7 +6,7 @@ languagecode = "en"
 theme = "black-and-light"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "UNPUBLISHED"]
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-google_analitycs_id = "UA-164645849-1"
+googleAnalytics = "UA-164645849-1"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
