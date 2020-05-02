@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All you did not choose</title>
+      <link>/post/all-you-did-not-choose/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-you-did-not-choose/</guid>
+      <description>You did not choose your name, not the first one, that one was given to you. You did not choose your country of birth or the soil that you were taught to call home.
+You did not choose your face, the weird wrinkle that defines you. You didn&amp;rsquo;t choose your skin tone, nor whatever other people will think about it.
+You didn&amp;rsquo;t choose your mother tongue. You didn&amp;rsquo;t choose the way you speak, your vocal cords, your unconscious cadence.</description>
+    </item>
     
     <item>
       <title>All of us</title>
@@ -56,17 +67,6 @@ Dubious. Maybe the B line, 4 minutes away. No, I hate the B line, how I wish it 
       <guid>/post/on-being-a-brain/</guid>
       <description>There&amp;rsquo;s no light inside, there&amp;rsquo;s no sound either. There’s no touching around that could guide you. No smell crawling its way towards you. The surroundings are tasteless. You are trapped in a coffin made of bone, a skull that imprisons you in an eternal bath.
 In this bath, it&amp;rsquo;s only you and the signals. So your best option is to sit comfortably and contemplate the myriad of miniature sparks that travel from one side to the other, and back.</description>
-    </item>
-    
-    <item>
-      <title>All you did not choose</title>
-      <link>/post/all-you-did-not-choose/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/all-you-did-not-choose/</guid>
-      <description>You did not choose your name, not the first one, that one was given to you. You did not choose your country of birth or the soil that you were taught to call home.
-You did not choose your face, the weird wrinkle that defines you. You didn&amp;rsquo;t choose your skin tone, nor whatever other people will think about it.
-You didn&amp;rsquo;t choose your mother tongue. You didn&amp;rsquo;t choose the way you speak, your vocal cords, your unconscious cadence.</description>
     </item>
     
   </channel>

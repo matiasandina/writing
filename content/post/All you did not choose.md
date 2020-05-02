@@ -1,7 +1,7 @@
 ---
 title: All you did not choose
 author: Matias Andina
-date: 
+date: "2020-05-02"
 tags: ["non-fiction"]
 ---
 
