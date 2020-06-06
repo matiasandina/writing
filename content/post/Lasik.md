@@ -5,7 +5,7 @@ date: 2020-06-06
 tags: ["fiction"]
 ---
 
-After that thought settled, she realized she would never see the world the same way again. She realized there was no going back after Lasik. Her eyesight was gone forever. The world was pitch black and quiet. She didn't really know where she was, she had the feeling of being sit, though she couldn't tell for sure. She wasn't deaf but the silence was more disturbing than the lack of vision.
+After that thought settled, she realized she would never see the world the same way again. She realized there was no going back after Lasik. Her eyesight was gone forever. The world was pitch black and quiet. She didn't really know where she was, she had the feeling of being seated, though she couldn't tell for sure. She wasn't deaf but the silence was more disturbing than the lack of vision.
 
 She did a few calculations to try to reassure herself. She would learn to navigate the world again, that was for sure. Well, maybe some day, but not today. Today the trauma was too real.
 
