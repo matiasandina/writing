@@ -13,8 +13,8 @@ You didn't choose your mother tongue. You didn't choose the way you speak, your 
 
 You cannot appease everybody. You cannot please everybody. But maybe you could choose how to react the next time you face somebody that irks you, somebody who rubs you the wrong way.
 
-Maybe you can learn their new language and visit their country. Better yet, you can actively try to talk to people that don't share your same values. Ask them to explain themselves. If they don't make sense, ask them to explain further, like a five year old would need. 
+Maybe you can learn their language and visit their country. Better yet, you can actively try to talk to people that don't share your same values. Ask them to explain themselves. If they don't make sense, ask them to explain further, like a five year old would need. 
 
-Maybe you can learn to not judge them on the basis of all they didn't choose, just as it feels unfair to you to get judged because of such things.
+Maybe you can learn to avoid judging them on the basis of all they didn't choose, just as it feels unfair to you to get judged because of such things.
 
 What will you choose?  
