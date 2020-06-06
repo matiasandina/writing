@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/fiction/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lasik/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/all-you-did-not-choose/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/non-fiction/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-05-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,11 +55,6 @@
   <url>
     <loc>/post/to-move-is-to-commit/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fiction/</loc>
-    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
