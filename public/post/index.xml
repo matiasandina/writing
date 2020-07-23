@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Everyone is a Billionaire</title>
+      <link>/post/everyone-is-a-billionaire/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/everyone-is-a-billionaire/</guid>
+      <description>We are all billionaires. But not in the way you are thinking. Let me clarify using a bit of back-of-the-envelope math. I&amp;rsquo;m feeling optimistic, so I will assume you will live 100 years. Most people average between 60 and 100 heart beats per minute, which turns out to be between 3 and 5 billion beats per human life, give or take. Living shorter means you get less beats, probably closer to 2 billion.</description>
+    </item>
     
     <item>
       <title>Into the spiral</title>
