@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Infinite Relay Race</title>
+      <link>/post/an-infinite-relay-race/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an-infinite-relay-race/</guid>
+      <description>It is not a sprint.
+It is not a marathon.
+It is an infinite relay race.
+And the score does not care who ran the fastest.
+It’s about passing your work to those who can continue it.
+Pass it to those who can push it further.
+To those who can make sure we continue in the game.
+To those who make us less wrong about the game.
+Keep playing for as long as you can improve the quality of our ignorance.</description>
+    </item>
     
     <item>
       <title>A backwards clock</title>
@@ -113,8 +126,8 @@ In this bath, it&amp;rsquo;s only you and the signals. So your best option is to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description> Contact Try Here:
- &amp;nbsp;  &amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;  &amp;nbsp;&amp;nbsp;  &amp;nbsp;  </description>
+      <description>Contact Try Here:
+ </description>
     </item>
     
     <item>
@@ -123,11 +136,8 @@ In this bath, it&amp;rsquo;s only you and the signals. So your best option is to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contribute/</guid>
-      <description> Contribute  I write fiction and non-fiction.
-I write open-source software.
-I create generative art.
-All of these are available for free in different media. If you like what I do, and want me to keep creating, you can contribute using the links below. 
- Patreon  Become a Patron!       Paypal      </description>
+      <description>Contribute All of these are available for free in different media. If you like what I do, and want me to keep creating, you can contribute using the links below.
+  </description>
     </item>
     
   </channel>
